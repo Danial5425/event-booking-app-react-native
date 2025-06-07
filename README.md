@@ -18,6 +18,14 @@ A full-stack mobile application for booking event tickets, built with:
 - Admin panel for event and user management
 
 ## 📷 Screenshots
+## Screenshots
+
+### Home Screen
+![Home Screen](./assets/App/home.png)
+
+### Ticket Screen
+![Ticket Screen](./assets/ticket.png)
+
 
 - Signup | Login | Forgot Password
 - Event Creation | Seat Selection
