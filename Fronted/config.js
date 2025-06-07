@@ -1,8 +1,8 @@
-const API_BASE_URL = "http://192.168.43.155:5000";
-GOOGLE_MAPS_API_KEY = "AIzaSyCKsVCi41ffXT1P1Q6yyVTyU6l9bXjVYWc";
+const API_BASE_URL = "http://ip:5000";
+GOOGLE_MAPS_API_KEY = "your api key";
 
 export default {
-  API_BASE_URL: process.env.API_BASE_URL || "http://192.168.43.155:5000",
+  API_BASE_URL: process.env.API_BASE_URL || "http://ip:5000",
   GOOGLE_MAPS_API_KEY,
-  STRIPE_PUBLISHABLE_KEY: process.env.STRIPE_PUBLISHABLE_KEY || 'pk_test_51RTP702UGQvDP0ho02ZVyQg0CZ8Jbrq4U6fFRTaLcCPY1ZGZ9nEM10fG0AlBrkbTVVRbry6fJ824QQsrwXCywDeo00PsJMohnM',
+  STRIPE_PUBLISHABLE_KEY: process.env.STRIPE_PUBLISHABLE_KEY || 'Stripr_api_key',
 };
