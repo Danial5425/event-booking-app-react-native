@@ -1,0 +1,11 @@
+PORT = 5000
+// Database
+MONGO_URI = your mango_uri
+KEY = jwttokenkey
+// nodemailer
+EMAIL_USERNAME =your gmail
+EMAIL_PASSWORD = app password
+
+STRIPE_SECRET_KEY= your Stripe secret api key
+STRIPE_ENABLE_UPI=true 
+STRIPE_PUBLISHABLE_KEY = your Stripe public api key
