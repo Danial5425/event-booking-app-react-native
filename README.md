@@ -21,7 +21,7 @@ A full-stack mobile application for booking event tickets, built with:
 ## Screenshots
 
 ### Home Screen
-![Home Screen](./assets/App/home.png)
+![Home Screen](./Fronted/assets/App/Customer_home.png)
 
 ### Ticket Screen
 ![Ticket Screen](./assets/ticket.png)
