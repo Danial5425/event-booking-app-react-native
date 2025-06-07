@@ -27,7 +27,7 @@ A full-stack mobile application for booking event tickets, built with:
 ![Ticket Screen](./Frontend/assets/ticket.png)
 
 ### 🔐 Signup Screen
-![Signup Screen](./Fronted/assets/APP/Signup.png)
+![Signup Screen](./Frontend/assets/APP/Signup.png)
 
 
 - Signup | Login | Forgot Password
